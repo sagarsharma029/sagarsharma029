@@ -5,7 +5,7 @@ QA Automation Engineer with 4.5+ years of experience in Selenium, Java, TestNG, 
 ## What I Do
 
 * Build scalable Selenium automation frameworks using Java & TestNG
-* Automate end-to-end payment workflows across UPI, Cards, Wallets, and Net Banking
+* Automate end-to-end automated workflows in Insurance and FinTech Web Applications
 * Design maintainable Page Object Model (POM) frameworks
 * Perform API testing using Postman and REST Assured
 * Work with SQL, CI/CD pipelines, and Agile testing practices
