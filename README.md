@@ -26,8 +26,9 @@ Java • Selenium WebDriver • TestNG • Maven • REST Assured • Postman �
 🌱 I’m currently learning Playwright.
 
 📫 How to reach me:
-LinkedIn: https://www.linkedin.com/in/qa-sagar/
-Email: sagarshrm029@gmail.com
+
+- LinkedIn: https://www.linkedin.com/in/qa-sagar
+- Email: sagarshrm029@gmail.com
 
 <!--
 **sagarsharma029/sagarsharma029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
